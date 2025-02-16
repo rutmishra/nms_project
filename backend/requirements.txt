@@ -1,0 +1,15 @@
+django
+celery
+redis
+pysnmp
+twilio
+streamlit
+matplotlib
+psycopg2
+python-dotenv
+channels
+djangorestframework
+psycopg2-binary
+psycopg
+psutil==5.9.8
+django-cors-headers==4.3.1
